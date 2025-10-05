@@ -1,0 +1,1 @@
+This project helped me strengthen my SQL fundamentals like creating relational databases, linking tables using foreign keys, and summarizing data with GROUP BY. Subqueries and diffent kind of join like innerjoin left join and right join. Subqueries were challenging for me .
